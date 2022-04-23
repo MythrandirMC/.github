@@ -1,4 +1,4 @@
-## Ho Ho Ho Traveller
+# Mythrandir MC Github
 So you found the Github for Mythrandir. If you're seeing this and interested in helping us program, contact us on the discord and we'll consider adding you to staff.
 
 <!--
